@@ -1,8 +1,8 @@
 package BlackJack;
 
 /**
- * Title: 
- * Objective: 
+ * Title: Card
+ * Objective: models individual cards
  * Author: Thanh Tran   Student#: 
  * Date: February 12, 2019
  */

@@ -2,7 +2,6 @@ package BlackJack;
 
 /**
  * A class that models each Player in the game. Players have an identifier, which should be unique.
- * @author dancye, 2018
  */
 
 public abstract class Player 
